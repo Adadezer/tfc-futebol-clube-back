@@ -81,3 +81,8 @@ Ps²: Verifique a versão do seu Node, a versão usada foi a v16.15.0, caso ocor
   
  4- Execute o projeto
  - `npm start`
+
+##
+<span >
+  <a href="https://www.linkedin.com/in/adadezer-iwazaki/" target="_blank"><img width="110em" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</span>
